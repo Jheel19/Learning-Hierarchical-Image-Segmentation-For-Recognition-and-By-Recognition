@@ -7,13 +7,13 @@
 
 
 An approach integrating hierarchical segmentation and recognition, CAST (<u>C</u>oncurrently learns segmentation and recognition using
-<u>A</udaptive <u>S</uegment<u>T</uokens), is implemented in this paper: https://openreview.net/pdf?id=IRcv4yFX6z. 
+<u>A</u>daptive <u>S</u>egment <u>T</u>okens), is implemented in this paper: https://openreview.net/pdf?id=IRcv4yFX6z. 
 
-The primary file implementing the code is Implementation.ipynb 
+The primary file implementing the code is Implementation_of_cast_and_vit.ipynb and Implementation_of_samh_and_samb.ipynb.
 
 This study primarily focuses on enhancing segmentation and recognition by proposing a concurrent and consistent hierarchical visual parsing framework. It examines the following key objectives and experiments:
 
-1.Explore the feasibility of integrating hierarchical segmentation within the recognition process, utilizing superpixels and graph pooling.
+1. Explore the feasibility of integrating hierarchical segmentation within the recognition process, utilizing superpixels and graph pooling.
 
 2. Evaluate the ability of the CAST model to discover and leverage part-to-whole relationships for enhanced segmentation and recognition performance.
    
@@ -71,12 +71,24 @@ Dependencies:
     dgl=1.1.3cu12.1
 
 
-Rest dependencies have been listed in the environment.yaml file provided in CAST repo.
+Rest dependencies have been listed in the environment.yaml file provided in CAST repository.
 
 
 
 ### Documentation 📑
 ---
+
+Implementation_of_cast_and_vit.ipynb and Implementation_of_samh_and_samb.ipynb: Main files implementing the paper.
+
+
+finetuning_ade20k.ipynb: Code to finetune cast on ADE20k dataset.
+
+
+cast_with_slic.ipynb: Implementing using SLIC Algorithm.
+
+
+varying_number_of_segments.ipynb: Trying with different number of segments.
+
 
 Report: https://docs.google.com/document/d/1YmJgOIew-I87bBxWu6zhq5QYt6NjNIR2INCzJLbtWbY/edit?tab=t.0
 
