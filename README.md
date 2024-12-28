@@ -71,12 +71,16 @@ Dependencies:
     dgl=1.1.3cu12.1
 
 
-Rest dependencies have been listed in the environment.yaml file provided in CAST repo.
+Rest dependencies have been listed in the environment.yaml file provided in CAST repository.
 
 
 
 ### Documentation 📑
 ---
 
+Implementation_of_cast_and_vit.ipynb and Implementation_of_samh_and_samb.ipynb: Main file implementing the paper.
+finetuning_ade20k.ipynb: Code to finetune cast on ADE20k dataset.
+cast_with_slic.ipynb: Implementing using SLIC Algorithm.
+varying_number_of_segments.ipynb: Trying with different number of segments.
 Report: https://docs.google.com/document/d/1YmJgOIew-I87bBxWu6zhq5QYt6NjNIR2INCzJLbtWbY/edit?tab=t.0
 
