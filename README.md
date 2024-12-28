@@ -38,6 +38,9 @@ PASCAL Context: http://host.robots.ox.ac.uk/pascal/VOC/voc2010/PASCALContext.tar
 ADE20K: http://data.csail.mit.edu/places/ADEchallenge/ADEChallengeData2016.zip
 
 
+PASCALVOC: https://drive.google.com/drive/folders/1cxgA1Lql6WTMp4Iw9Lj9VSsv72JJceK-?usp=sharing
+
+
 
 
 The Python codes provided in this repository download and implement the model and the dataset in the code itself, and structure it too, as they are directly callable. There is no requirement of setting paths in the code or placing files in specifc folders.
