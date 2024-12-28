@@ -90,5 +90,4 @@ cast_with_slic.ipynb: Implementing using SLIC Algorithm.
 varying_number_of_segments.ipynb: Trying with different number of segments.
 
 
-Report: https://docs.google.com/document/d/1YmJgOIew-I87bBxWu6zhq5QYt6NjNIR2INCzJLbtWbY/edit?tab=t.0
-
+Report: https://docs.google.com/document/d/1R0d7BNGAZ4-Bq52wt44dNx5-E7Uyn5Yn_wvESeirRno/edit?tab=t.0
