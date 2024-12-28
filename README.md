@@ -90,6 +90,6 @@ cast_with_slic.ipynb: Implementing using SLIC Algorithm.
 varying_number_of_segments.ipynb: Trying with different number of segments.
 
 
-evaluation_on_pascalvoc.ipynb: Attempt to gtgest cast on PASCAL VOC dataset
+evaluation_on_pascalvoc.ipynb: Attempt to gtgest cast on PASCAL VOC dataset.
 
 Report: https://docs.google.com/document/d/1R0d7BNGAZ4-Bq52wt44dNx5-E7Uyn5Yn_wvESeirRno/edit?tab=t.0
