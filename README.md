@@ -13,7 +13,7 @@ The primary file implementing the code is Implementation_of_cast_and_vit.ipynb a
 
 This study primarily focuses on enhancing segmentation and recognition by proposing a concurrent and consistent hierarchical visual parsing framework. It examines the following key objectives and experiments:
 
-1.Explore the feasibility of integrating hierarchical segmentation within the recognition process, utilizing superpixels and graph pooling.
+1. Explore the feasibility of integrating hierarchical segmentation within the recognition process, utilizing superpixels and graph pooling.
 
 2. Evaluate the ability of the CAST model to discover and leverage part-to-whole relationships for enhanced segmentation and recognition performance.
    
