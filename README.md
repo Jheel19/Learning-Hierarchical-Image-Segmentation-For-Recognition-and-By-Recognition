@@ -7,7 +7,7 @@
 
 
 An approach integrating hierarchical segmentation and recognition, CAST (<u>C</u>oncurrently learns segmentation and recognition using
-<u>A</u>daptive <u>S</u>egment<u>T</u>okens), is implemented in this paper: https://openreview.net/pdf?id=IRcv4yFX6z. 
+<u>A</u>daptive <u>S</u>egment <u>T</u>okens), is implemented in this paper: https://openreview.net/pdf?id=IRcv4yFX6z. 
 
 The primary file implementing the code is Implementation_of_cast_and_vit.ipynb and Implementation_of_samh_and_samb.ipynb.
 
