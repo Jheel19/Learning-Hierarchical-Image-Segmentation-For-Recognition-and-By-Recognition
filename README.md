@@ -9,7 +9,7 @@
 An approach integrating hierarchical segmentation and recognition, CAST (<u>C</u>oncurrently learns segmentation and recognition using
 <u>A</udaptive <u>S</uegment<u>T</uokens), is implemented in this paper: https://openreview.net/pdf?id=IRcv4yFX6z. 
 
-The primary file implementing the code is Implementation.ipynb 
+The primary file implementing the code is Implementation_of_cast_and_vit.ipynb and Implementation_of_samh_and_samb.ipynb.
 
 This study primarily focuses on enhancing segmentation and recognition by proposing a concurrent and consistent hierarchical visual parsing framework. It examines the following key objectives and experiments:
 
