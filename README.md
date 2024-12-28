@@ -78,7 +78,7 @@ Rest dependencies have been listed in the environment.yaml file provided in CAST
 ### Documentation 📑
 ---
 
-Implementation_of_cast_and_vit.ipynb and Implementation_of_samh_and_samb.ipynb: Main file implementing the paper.
+Implementation_of_cast_and_vit.ipynb and Implementation_of_samh_and_samb.ipynb: Main files implementing the paper.
 
 
 finetuning_ade20k.ipynb: Code to finetune cast on ADE20k dataset.
