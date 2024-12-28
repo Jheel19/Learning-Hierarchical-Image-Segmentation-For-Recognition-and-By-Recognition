@@ -36,6 +36,7 @@ Dataset link:
 PartImageNet_OOD: https://github.com/TACJu/PartImageNet   
 PASCAL Context: http://host.robots.ox.ac.uk/pascal/VOC/voc2010/PASCALContext.tar.gz  
 ADE20K: http://data.csail.mit.edu/places/ADEchallenge/ADEChallengeData2016.zip
+
 PASCALVOC: https://drive.google.com/drive/folders/1cxgA1Lql6WTMp4Iw9Lj9VSsv72JJceK-?usp=sharing
 
 
